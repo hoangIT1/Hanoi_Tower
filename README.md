@@ -1,7 +1,7 @@
 # Hanoi_Tower
 ## Hanoi Tower Algorithm Animation by Winform
-Platform: Winform
-Language: C#
+1. Platform: Winform
+2. Language: C#
 ## Requirement:
 1. Visual Studio 
 2. .NET Framework
